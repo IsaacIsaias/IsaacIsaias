@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/isaac-isaias" target="_blank"><img src="https://img.shields.io/badge/-isaac--isaias-0b2b4c?style=flat&logo=Linkedin&logoColor=white" alt="Isaac Isaias' LinkedIn" /></a>
   <a href="mailto:isaac.isaiasll@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-isaac.isaiasll@hotmail.com-0078d4?style=flat&logo=Microsoft&logoColor=white" alt="Isaac Isaias' Hotmail" /></a>
   <a href="mailto:isaacllisaias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-isaacllisaias@gmail.com-c5221f?style=flat&logo=Gmail&logoColor=white" alt="Isaac Isaias' Gmail" /></a>
-  <a href="https://twitter.com/LIsaac_LIsaias" target="_blank"><img src="https://img.shields.io/badge/-@LIsaac_LIsaias-1d9bf0?style=flat&logo=Twitter&logoColor=white" alt="Isaac Isaias' Twitter" /></a>
 </div>
 
 ---
@@ -44,6 +43,7 @@
 <div align="right">
   <h3>Other Technologies</h3>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="48px" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="48px" /></a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48px" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48px" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48px" /></a>
@@ -53,7 +53,7 @@
   <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="48px" /></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48px" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48px" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48px" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48px" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="48px" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48px" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="48px" /></a>
