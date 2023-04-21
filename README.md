@@ -6,6 +6,7 @@
 <h3>About Me</h3>
 <ul>
   <li>👨🏽‍💻 Mechatronics Engineering Student</li>
+  <li>🌑 New 🟥Microsoft 🟩Learn 🟦Student 🟨Ambassador</li>
   <li>🐝 IBM Student Advocate</li>
   <li>🧮 Maths lover</li>
   <li>💻 Constantly learning and updating</li>
